@@ -10,9 +10,15 @@ Ben [Şehir/Ülke]'de yaşayan bir [Meslek/Unvan, Örn: Yazılım Geliştirici].
 
 ## Yeteneklerim ve Araçlar
 
-* **Programlama Dilleri:** [Örn: JavaScript, Python, C#]
-* **Frameworkler:** [Örn: React, Node.js, .NET]
-* **Araçlar ve Veritabanları:** [Örn: Git, Docker, PostgreSQL]
+Ağırlıklı olarak kullandığım teknolojiler:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma&theme=light" alt="Yetenek İkonları" />
+  </a>
+</p>
+
+*(Not: Görsel linkinin içindeki `i=` kısmından sonra gelen `html,css,js...` kelimelerini kendi kullandığın araçların İngilizce kısaltmalarıyla değiştirebilirsin.)*
 
 ## Öne Çıkan Projelerim
 
