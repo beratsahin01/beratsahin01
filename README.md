@@ -1,43 +1,28 @@
+# Merhaba, Ben [Adın Soyadın] 👋
 
-# Selam, ben [Adın] ✌️
+Ben [Şehir/Ülke]'de yaşayan bir [Meslek/Unvan, Örn: Yazılım Geliştirici]. Karmaşıklıktan uzak, temiz ve çalışan projeler üretmeyi seviyorum.
 
-**[Unvanın, Örn: Frontend Geliştirici] | [Şehir/Ülke]**
+## Neler Yapıyorum?
 
-Karmaşık problemleri sade ve temiz kodlarla çözmeyi seven bir geliştiriciyim. Sürekli yeni teknolojiler keşfetmekten ve açık kaynak dünyasına katkıda bulunmaktan keyif alıyorum.
+* 🏢 **Çalışıyorum:** [Şu anki şirket veya ana proje]
+* 🌱 **Öğreniyorum:** [Şu sıralar öğrendiğin veya odaklandığın teknolojiler]
+* 🎯 **İlgileniyorum:** [Örn: Açık kaynak projeler, backend sistemleri]
 
-### ✦ Hakkımda
+## Yeteneklerim ve Araçlar
 
-- 🏢 **Şu an:** [Şirket veya Proje Adı]'nda çalışıyorum.
-- 🌱 **Öğreniyorum:** [Öğrendiğin Teknoloji, Örn: Go ve Web3]
-- 🎯 **Odak noktam:** [Örn: Performans optimizasyonu ve erişilebilirlik]
-- ✍️ **Yazılarım:** [Blog Sitenin Adı](https://senin-siten.com) adresinde teknik makaleler yazıyorum.
+* **Programlama Dilleri:** [Örn: JavaScript, Python, C#]
+* **Frameworkler:** [Örn: React, Node.js, .NET]
+* **Araçlar ve Veritabanları:** [Örn: Git, Docker, PostgreSQL]
 
----
+## Öne Çıkan Projelerim
 
-### ⚙️ Araçlar ve Teknolojiler
+* **[Proje Adı 1](Proje Linki):** Bu projenin ne yaptığına dair tek cümlelik net bir açıklama.
+* **[Proje Adı 2](Proje Linki):** Bu projenin ne yaptığına dair tek cümlelik net bir açıklama.
 
-Aşağıdaki ikonlar, günlük olarak en çok kullandığım teknolojileri temsil ediyor:
+## İletişim
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,cs,cpp,sql=light" alt="Yetenek İkonları" />
-  </a>
-</p>
+Bana aşağıdaki kanallardan ulaşabilirsiniz:
 
-
-
----
-
-### 📈 İstatistikler
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&theme=transparent&hide_border=true&show_icons=true&locale=tr&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub İstatistikleri" />
-</p>
-
----
-
-### 🔗 İletişim & Bağlantılar
-
-Bana aşağıdaki platformlardan dilediğiniz zaman ulaşabilirsiniz:
-
-[LinkedIn](https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN) &nbsp;•&nbsp; [Twitter / X](https://twitter.com/TWITTER_KULLANICI_ADIN) &nbsp;•&nbsp; [Kişisel Web Sitem](https://senin-siten.com) &nbsp;•&nbsp; [E-posta](mailto:senin@mailadresin.com)
+* **E-posta:** [senin@mailadresin.com](mailto:senin@mailadresin.com)
+* **LinkedIn:** [Profil Linkin](https://linkedin.com/in/kullaniciadin)
+* **Web Sitem:** [Portfolyo Linkin](https://seninsiten.com)
