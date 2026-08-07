@@ -20,7 +20,7 @@ Aşağıdaki ikonlar, günlük olarak en çok kullandığım teknolojileri temsi
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,cs,cpp,figma&theme=light" alt="Yetenek İkonları" />
+    <img src="https://skillicons.dev/icons?i=,git,cs,cpp,sql=light" alt="Yetenek İkonları" />
   </a>
 </p>
 
