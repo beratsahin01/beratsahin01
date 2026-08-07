@@ -13,7 +13,7 @@ Technologies I use mostly:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp=light" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp,=light" alt="Skill Icons" />
   </a>
 </p>
 
