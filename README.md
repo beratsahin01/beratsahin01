@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=beratsahin01&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+</div>
+
 # Hi, I'm Berat Şahin 👋
 
 I'm a Programmer . I love building clean, functional projects without unnecessary complexity.
