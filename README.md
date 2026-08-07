@@ -20,11 +20,11 @@ Aşağıdaki ikonlar, günlük olarak en çok kullandığım teknolojileri temsi
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma&theme=light" alt="Yetenek İkonları" />
+    <img src="https://skillicons.dev/icons?i=,git,c#,c++,figma&theme=light" alt="Yetenek İkonları" />
   </a>
 </p>
 
-*Not: Kullandığın teknolojilere göre yukarıdaki linkteki 'i=' kısmından sonraki kelimeleri (js, ts, react vb.) değiştirebilirsin.*
+
 
 ---
 
