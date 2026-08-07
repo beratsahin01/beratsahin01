@@ -1,34 +1,26 @@
-# Merhaba, Ben [Adın Soyadın] 👋
+# Hi, I'm Berat Şahin 👋
 
-Ben [Şehir/Ülke]'de yaşayan bir [Meslek/Unvan, Örn: Yazılım Geliştirici]. Karmaşıklıktan uzak, temiz ve çalışan projeler üretmeyi seviyorum.
+I'm a Programmer . I love building clean, functional projects without unnecessary complexity.
 
-## Neler Yapıyorum?
+## What I Do
 
-* 🏢 **Çalışıyorum:** [Şu anki şirket veya ana proje]
-* 🌱 **Öğreniyorum:** [Şu sıralar öğrendiğin veya odaklandığın teknolojiler]
-* 🎯 **İlgileniyorum:** [Örn: Açık kaynak projeler, backend sistemleri]
+* 🌱 **Currently learning:** Python
+* 🎯 **Interested in:** Embedded Systems , Data Science and Data Visualization
 
-## Yeteneklerim ve Araçlar
+## Skills & Tools
 
-Ağırlıklı olarak kullandığım teknolojiler:
+Technologies I use mostly:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma&theme=light" alt="Yetenek İkonları" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp=light" alt="Skill Icons" />
   </a>
 </p>
 
-*(Not: Görsel linkinin içindeki `i=` kısmından sonra gelen `html,css,js...` kelimelerini kendi kullandığın araçların İngilizce kısaltmalarıyla değiştirebilirsin.)*
 
-## Öne Çıkan Projelerim
+## Contact
 
-* **[Proje Adı 1](Proje Linki):** Bu projenin ne yaptığına dair tek cümlelik net bir açıklama.
-* **[Proje Adı 2](Proje Linki):** Bu projenin ne yaptığına dair tek cümlelik net bir açıklama.
+You can reach me through the following channels:
 
-## İletişim
-
-Bana aşağıdaki kanallardan ulaşabilirsiniz:
-
-* **E-posta:** [senin@mailadresin.com](mailto:senin@mailadresin.com)
-* **LinkedIn:** [Profil Linkin](https://linkedin.com/in/kullaniciadin)
-* **Web Sitem:** [Portfolyo Linkin](https://seninsiten.com)
+* **Email:** [ahmetberatsahin1@gmail.com](mailto:ahmetberatsahin1@gmail.com)
+* **LinkedIn:** [Ahmet Berat Şahin](https://linkedin.com/in/ahmetberatsahin)
