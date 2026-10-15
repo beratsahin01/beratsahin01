@@ -2,14 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=beratsahin01&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>
 
-# Hi, I'm Berat Şahin 👋
+# Hi, I'm Berat Şahin 
 
 I'm a Programmer . I love building clean, functional projects without unnecessary complexity.
 
 ## What I Do
 
-* 🌱 **Currently learning:** Python
-* 🎯 **Interested in:** Embedded Systems , Data Science and Data Visualization
+*  **Currently learning:** Python
+*  **Interested in:** Embedded Systems , Data Science and Data Visualization
 
 ## Skills & Tools
 
